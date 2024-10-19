@@ -1,0 +1,43 @@
+
+
+.go {
+    background-color: #e0e8d9;
+    border-radius: 20px;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-size: 17px; 
+   
+}
+.heading {
+    color: white;
+    background-color: rgb(73, 183, 73);
+    margin: -40px -20px 20px -20px
+}
+.heading h1,h6{
+        padding-left:5px;
+        padding-top: 5px;
+}
+.heading h6 {
+    padding-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+        width: 80%;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    background-color: rgb(73, 183, 73);
+    color: white;
+   margin: 10px;
+   padding: 12px;
+    border-radius: 4px;
+    border: none;
+}
